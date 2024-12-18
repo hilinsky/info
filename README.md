@@ -1,6 +1,6 @@
 ## Info repository
 
-![screensot](screen/scheme.png)
+![screensot](screen/sheme.png)
 
 ### Linux
 * https://www.linux.org
