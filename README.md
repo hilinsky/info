@@ -1,5 +1,7 @@
 ## Info repository
 
+![screensot](screen/scheme.png)
+
 ### Linux
 * https://www.linux.org
 * https://books.linuxforum.ru/wp-content/files/Linux-handbook-comands-A-Z-SEDICOMM-University.pdf
