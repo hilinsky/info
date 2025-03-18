@@ -112,6 +112,11 @@ curl -X POST https://example.com/wp-json/wp/v2/posts \
 * The <b>status</b> field can be set to <b>publish</b>, <b>draft</b>, or other valid statuses depending on your requirements.
 * If you encounter issues, make sure that your token is valid and that your user has the appropriate permissions to create posts on the WordPress site
 
+### Insert Token
+```mysql
+ INSERT INTO wp_oauth_access_tokens (access_token,client_id,user_id,expires,scope) VALUES ('sdfRGVFDvfsgsfgsdf','asfgdvesrEFEFsdvsdfg','1','2025-08-31','basic');
+```
+
 ### Links:
 * https://wordpress.org/plugins/oauth2-provider/#description
 * https://www.cloudways.com/blog/wp-rest-api-oauth-authentication/
