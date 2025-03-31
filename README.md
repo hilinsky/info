@@ -120,3 +120,30 @@ curl -X POST https://example.com/wp-json/wp/v2/posts \
 ### Links:
 * https://wordpress.org/plugins/oauth2-provider/#description
 * https://www.cloudways.com/blog/wp-rest-api-oauth-authentication/
+
+* Install plugin:
+![screensot](screen/plugin.png)
+
+* Clients:
+![screensot](screen/plugin1.png)
+
+* Enable server:
+![screensot](screen/settings.png)
+
+* Create client:
+![screensot](screen/client.png)
+
+* Client:
+![screensot](screen/client_id.png)
+
+* Insert into MySQL:
+![screensot](screen/mysql.png)
+
+* Table:
+![screensot](screen/mysql1.png)
+
+* Posting:
+![screensot](screen/post.png)
+
+* Posts:
+![screensot](screen/posts.png)
